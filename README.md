@@ -38,6 +38,7 @@ This project is developed as part of the AIxplain Agent Course.
 Install required Python packages:
 pip install -r requirements.txt
 
+---
 
 ### Example Usage 
 
