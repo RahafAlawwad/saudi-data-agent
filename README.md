@@ -46,3 +46,21 @@ response = agent.query("Get Tourism Statistics related number of female employee
 print(response)
 
 
+---
+
+
+## Future Work
+
+This project has potential for future enhancements, including:
+
+- **Interactive Web Application**  
+  Build a web app using vercel or tempolabs to provide an interactive interface for querying Saudi tourism data and visualizing reports dynamically.
+
+- **Google Docs Integration**  
+  Extend the agent to generate formatted statistical reports in Google Docs automatically, using the Google Docs API.
+
+- **Data Visualization Dashboards**  
+  Create visual dashboards with tools like Plotly, Dash, or Google Data Studio to present trends and insights interactively.
+
+
+
